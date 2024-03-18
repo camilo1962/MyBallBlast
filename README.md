@@ -1,6 +1,4 @@
-# BallBlastClone
-Ball blast game clone with unity 2D.
-<br>
-<br>
+# Batalla de Flores
+https://github.com/camilo1962/MyBallBlast/blob/main/Assets/sprites/Icono.png
 
-![Project image](https://github.com/ahmettopak/BallBlastClone/blob/main/ProjectImage.png)
+
